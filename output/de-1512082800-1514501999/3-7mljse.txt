@@ -1,0 +1,18 @@
+SubID: 7mljse, No: 3, Titel: Eine kostenpflichtige Nummer anrufen ist zu teuer, aber dann lieber 24km Auto fahren?, ups: 2, ratio: 0.75, author: microbit262, Zeitpunkt 2017-12-28 10:02:15, URL https://www.reddit.com/r/de/comments/7mljse/eine_kostenpflichtige_nummer_anrufen_ist_zu_teuer/, Message: 
+==Gestern hatte sich mein Vater bei Kinotickets vertan und den falschen Tag gebucht. Also stornieren, da als Gast gekauft geht es nicht online.
+
+Das Kino hat nur eine kostenpflichtige (0180)-Nummer, 14ct pro Minute, da sagte er das sei ihm zu teuer. Also, was macht er? Fährt lieber 12km hin und zurück mit dem Auto (ca. 2,5l Benzin) um die Karten zurückzugeben. Diese Logik mag einer verstehen...
+
+,
+-->CNo: 1, CZeitpunkt: 2017-12-28 10:05:11, Score: 1, CAuthor: tabascun, CMessage: > 12km hin und zurück mit dem Auto (ca. 2,5l Benzin)
+
+Fährt dein Vater einen Panzer? ~~Das wären 18l/100km.~~ Argh, Mumpitz. Aber 11l/100km sind immer noch echt viel.: 
+-->CNo: 2, CZeitpunkt: 2017-12-28 10:17:25, Score: 1, CAuthor: breaddrink, CMessage: Fährt dein Vater auch in den 10km entfernten Ort weil da die freie Tankstelle ist die pro Liter einen Cent günstiger ist?: 
+-->CNo: 3, CZeitpunkt: 2017-12-28 10:09:21, Score: 1, CAuthor: microbit262, CMessage: AMG C450 im Sport+ - Modus, auch wenn ich nicht dabei war, ich kenne seinen Fahrstil.
+
+Aber selbst wenn er nur die Hälfte brauchen würde wäre anrufen wohl immernoch billiger.: 
+-->CNo: 4, CZeitpunkt: 2017-12-28 10:22:38, Score: 1, CAuthor: microbit262, CMessage: Nein, aber weil er mit dem Vor-vorbesitzer der örtlichen Tankstelle in dessen Werkstatt mal Probleme hatte. Seitdem tankt er dort nichtmehr, egal wem sie gehört...: 
+-->CNo: 5, CZeitpunkt: 2017-12-28 10:17:37, Score: 1, CAuthor: hypnoconsole, CMessage: Glaube dein Vater hat einfach Bock mal wieder bisschen Auto zu fahren.: 
+-->CNo: 6, CZeitpunkt: 2017-12-28 10:36:34, Score: 1, CAuthor: theadama, CMessage: Ich denke bei so einem Auto sind einem die Benzinkosten Recht egal.: 
+-->CNo: 7, CZeitpunkt: 2017-12-28 10:21:09, Score: 1, CAuthor: microbit262, CMessage: Er klang aber schon ziemlich genervt dass er da extra hinfahren muss nur weil die keine kostenlose Telefonnummer haben.: 
+-->CNo: 8, CZeitpunkt: 2017-12-28 10:35:46, Score: 1, CAuthor: hoeskioeh, CMessage: Erfreut aufschreien; "Endlich eine Entschuldigung um mal fünf Minuten Ruhe vom Familienweihnachtsstimmungsgedöns zu haben!" wär vermutlich auch doof gekommen...: 

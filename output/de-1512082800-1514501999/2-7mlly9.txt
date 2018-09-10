@@ -1,0 +1,5 @@
+SubID: 7mlly9, No: 2, Titel: Kartellamt rügt Lufthansa: „Solche Algorithmen werden ja nicht vom lieben Gott geschrieben“, ups: 4, ratio: 0.83, author: db82, Zeitpunkt 2017-12-28 10:19:14, URL http://www.handelsblatt.com/unternehmen/handel-konsumgueter/kartellamt-ruegt-lufthansa-solche-algorithmen-werden-ja-nicht-vom-lieben-gott-geschrieben/20795072.html, Message: 
+==
+
+,
+-->CNo: 1, CZeitpunkt: 2017-12-28 10:24:22, Score: 1, CAuthor: hypnoconsole, CMessage: Fast! Sie werden von einem Informatiker geschrieben. MINT Götterrasse.: 

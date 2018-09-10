@@ -1,0 +1,10 @@
+SubID: 7ml6cm, No: 16, Titel: Martin Schulz ist nach Umfragen "Verlierer des Jahres"., ups: 2, ratio: 0.57, author: leftyandzesty, Zeitpunkt 2017-12-28 08:21:46, URL https://www.focus.de/politik/deutschland/emnid-umfrage-grossteil-der-deutschen-legt-sich-fest-spd-chef-schulz-ist-verlierer-des-jahres_id_8134936.html, Message: 
+==
+
+,
+-->CNo: 1, CZeitpunkt: 2017-12-28 09:07:45, Score: 5, CAuthor: sillymaniac, CMessage: Wir taten es Lases!: 
+-->CNo: 2, CZeitpunkt: 2017-12-28 10:07:29, Score: 2, CAuthor: hypnoconsole, CMessage: In meinen Augen ja eher die Menschheit aber ok dann nehmen wir den Martin als Sündenbock.: 
+-->CNo: 3, CZeitpunkt: 2017-12-28 08:22:39, Score: 1, CAuthor: leftyandzesty, CMessage: Ich glaube da kann man nur noch eines sagen: Tja.: 
+-->CNo: 4, CZeitpunkt: 2017-12-28 09:10:17, Score: 2, CAuthor: leftyandzesty, CMessage: Sie wurden von /r/the_schulz gebannt.: 
+-->CNo: 5, CZeitpunkt: 2017-12-28 09:35:36, Score: 2, CAuthor: johnklotter, CMessage: Als Mod und Gründungsmitglied? Ist das legal? : 
+-->CNo: 6, CZeitpunkt: 2017-12-28 09:37:17, Score: 1, CAuthor: leftyandzesty, CMessage: Putsch? Oder doch Revolution?: 
